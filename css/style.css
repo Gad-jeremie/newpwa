@@ -156,7 +156,7 @@ height: 22px;
 /*--------*/
 
 .btn, .btn-large, .btn-flat {
-  
+    margin: 20px auto!important;
     border: none;
     border-radius: 2px;
     display: inline-block;
