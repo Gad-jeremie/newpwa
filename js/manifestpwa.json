@@ -13,25 +13,25 @@
     
     {
       "src": "images/logo128",
-      "sizes": "128x128",
+      "sizes": "128x127",
       "type": "image/png"
     },
     
      {
       "src": "images/logo144",
-      "sizes": "144x144",
+      "sizes": "144x143",
       "type": "image/png"
     },
     
      {
       "src": "images/logo152.png",
-      "sizes": "152x152",
+      "sizes": "152x151",
       "type": "image/png"
     },
     
     {
       "src": "images/logo196.png",
-      "sizes": "196x196",
+      "sizes": "196x195",
       "type": "image/png"
     }
   ],
