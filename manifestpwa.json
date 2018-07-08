@@ -1,7 +1,7 @@
 {
-  "short_name": "Lettres Noires",
-  "name": "Lettres Noires",
-  "description": "Progressive web app",
+  "short_name": "Tia Deliveries",
+  "name": "Tia Deliveries",
+  "description": "Tia pwa",
   "icons": [
     
       {
@@ -10,14 +10,14 @@
       "type": "image/png"
     },
     
-      {
+    
+    {
       "src": "images/logo48.png",
       "sizes": "48x48",
       "type": "image/png"
     },
-     
     
-    {
+     {
       "src": "images/logo72.png",
       "sizes": "72x72",
       "type": "image/png"
@@ -29,7 +29,7 @@
       "type": "image/png"
     },
     
-     {
+    {
       "src": "images/logo130.png",
       "sizes": "130x130",
       "type": "image/png"
@@ -39,9 +39,10 @@
       "src": "images/logo160.png",
       "sizes": "160x160",
       "type": "image/png"
-    }
+    },
     
-     {
+    
+    {
       "src": "images/logo196.png",
       "sizes": "196x196",
       "type": "image/png"
@@ -52,12 +53,10 @@
       "sizes": "230x230",
       "type": "image/png"
     }
-    
-    
   ],
   "start_url": "index.html",
   "display": "standalone",
   "orientation": "portrait",
-  "theme_color": "#803f09",
+  "theme_color": "#51260a",
   "background_color": "#f5f4f4"
 }
