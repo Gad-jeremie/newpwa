@@ -12,13 +12,13 @@
      
     
     {
-      "src": "images/logo128",
+      "src": "images/logo128.png",
       "sizes": "128x127",
       "type": "image/png"
     },
     
      {
-      "src": "images/logo144",
+      "src": "images/logo144.png",
       "sizes": "144x143",
       "type": "image/png"
     },
