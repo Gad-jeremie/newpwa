@@ -11,14 +11,14 @@
 
 <!-- json -->
 
-<link rel="manifest" href="js/manifestpwa.json">
+<link rel="manifest" href="manifestpwa.json">
 
 <!-- This js code will be executed at time of page rendering and will register the service worker. -->
    <!-- And your web app is now installable. Happy Learning :) -->
    <script>
      if('serviceWorker' in navigator) {
        navigator.serviceWorker
-       .register('js/sworker.js')
+       .register('./sworker.js')
        .then(function() {
          console.log("Service Worker registered successfully");
        })
