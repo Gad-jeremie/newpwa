@@ -6,40 +6,54 @@
     
       {
       "src": "images/logo38.png",
-      "sizes": "38x37",
+      "sizes": "38x38",
       "type": "image/png"
     },
     
       {
       "src": "images/logo48.png",
-      "sizes": "48x47",
+      "sizes": "48x48",
       "type": "image/png"
     },
      
     
     {
-      "src": "images/logo128.png",
-      "sizes": "128x123",
+      "src": "images/logo72.png",
+      "sizes": "72x72",
       "type": "image/png"
     },
     
      {
-      "src": "images/logo144.png",
-      "sizes": "144x139",
+      "src": "images/logo96.png",
+      "sizes": "96x96",
       "type": "image/png"
     },
     
      {
-      "src": "images/logo152.png",
-      "sizes": "152x146",
+      "src": "images/logo130.png",
+      "sizes": "130x130",
       "type": "image/png"
     },
     
     {
-      "src": "images/logo196.png",
-      "sizes": "196x189",
+      "src": "images/logo160.png",
+      "sizes": "160x160",
       "type": "image/png"
     }
+    
+     {
+      "src": "images/logo196.png",
+      "sizes": "196x196",
+      "type": "image/png"
+    },
+    
+     {
+      "src": "images/logo230.png",
+      "sizes": "230x230",
+      "type": "image/png"
+    }
+    
+    
   ],
   "start_url": "index.html",
   "display": "standalone",
