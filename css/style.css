@@ -2,9 +2,24 @@ body {
   background-color: #ccc;
 }
 
+.modal-content p{
+    padding: 3em;
+}
+
+/*images*/
+.image{
+width: 80%;
+min-height: 1px!important;
+display: block;
+margin:2em auto;
+}
+
+.image img {
+width:100%;
+}
 
 #envelope_one {
-  height: 28px;
+height: 28px;
     width: 44px;
     border-radius: 3px;
     background-color: #fff;
@@ -153,7 +168,6 @@ height: 22px;
 }
 
 
-
 /*--------*/
 
 .btn, .btn-large, .btn-flat {
@@ -168,7 +182,6 @@ height: 22px;
     text-transform: none;
     vertical-align: middle;
     -webkit-tap-highlight-color: transparent;
-  
     width: 80%;
     display: block;
     margin: 2em auto;
