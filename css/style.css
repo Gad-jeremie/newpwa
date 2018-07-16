@@ -3,7 +3,7 @@ body {
 }
 
 .modal-content p{
- padding:0em;
+ padding:0em!important;
 }
 
 /*images*/
