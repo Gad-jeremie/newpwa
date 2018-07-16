@@ -3,7 +3,7 @@ body {
 }
 
 .modal-content p{
-    padding: 1em;
+    padding: 3em;
 }
 
 /*images*/
@@ -167,6 +167,8 @@ height: 22px;
   100% {transform: translateX(800px) rotate(5deg) scaleX(1); opacity: 0;}
 }
 
+
+
 /*--------*/
 
 .btn, .btn-large, .btn-flat {
@@ -186,3 +188,11 @@ height: 22px;
     display: block;
     margin: 2em auto;
 }
+
+
+/* max-width 640px, mobile-only styles, use when QAing mobile issues */
+@media only screen and (max-width: 40em) { 
+.modal .modal-content {
+padding: 10px!important;
+}
+} 
