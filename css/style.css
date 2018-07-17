@@ -6,19 +6,19 @@ body {
     width: 87%;
 }
 .modal-content p{
-    padding: 2em;
+    padding: 1em;
 }
 
 /*images*/
 .image{
-width: 98%;
+width: 100%;
 min-height: 1px!important;
 display: block;
 margin:2em auto;
 }
 
 .image img {
-width:100%;
+width:98%;
 }
 
 #envelope_one {
