@@ -7,7 +7,6 @@ body {
 }
 .modal-content p{
     padding: .66em;
-  text-align:justify;
 }
 
 .google{
@@ -19,7 +18,7 @@ body {
 }
 
 .closeview{
-    width: 40px;
+    width: 50px;
 }
 /*images*/
 .image{
