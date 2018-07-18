@@ -17,6 +17,11 @@ body {
     width: 23px;
 }
 
+.btn .newonblog {
+  margin-left:2.7em;
+
+}
+
 .closeview{
     width:65px;
 }
@@ -191,9 +196,9 @@ height: 22px;
     border-radius: 2px;
     display: inline-block;
     height: 70px!important;
-    line-height: 70px;
+    line-height: 43px;
     outline: 0;
-    padding: 0 5rem;
+    padding: 0 ;
     text-transform: none;
     vertical-align: middle;
     -webkit-tap-highlight-color: transparent;
