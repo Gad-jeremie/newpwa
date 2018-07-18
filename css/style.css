@@ -6,9 +6,20 @@ body {
     width: 87%;
 }
 .modal-content p{
-    padding: .65em;
+    padding: 3em;
 }
 
+.google{
+    width: 21px;
+}
+
+.blackhand{
+    width: 23px;
+}
+
+.closeview{
+    width: 40px;
+}
 /*images*/
 .image{
 width: 100%;
@@ -169,8 +180,6 @@ height: 22px;
   25% {transform: translateX(0px) rotate(5deg) scaleX(1); opacity: 1;}
   100% {transform: translateX(800px) rotate(5deg) scaleX(1); opacity: 0;}
 }
-
-
 
 /*--------*/
 
